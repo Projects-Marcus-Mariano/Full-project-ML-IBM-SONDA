@@ -57,7 +57,7 @@ This article is designed to show an application of the Machine Learning workflow
 ## Code
 __Notebooks__
 
-To view notebook with my codes click [here](https://github.com/Data-Science-Python-Marcus-Mariano/Full-project-ML-IBM-SONDA/00_IBM_SONDA_Churn.ipynb)
+To view notebook with my codes click [here](https://github.com/Projects-Marcus-Mariano/Full-project-ML-IBM-SONDA/blob/master/00_IBM_SONDA_Churn.ipynb)
 
 
 ---
